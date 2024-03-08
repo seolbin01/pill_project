@@ -14,7 +14,10 @@
 - 팀원3 : 김서윤
 
 ### ⚙️ 개발 환경
-- 
+- IDE : Visual Studio Code, Android Studio
+- `python`
+- `kotlin`
+- `java`
 
 ## 📌 주요 기능
 
